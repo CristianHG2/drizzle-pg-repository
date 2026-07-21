@@ -12,6 +12,15 @@
     "typescript"
   ],
   "license": "MIT",
+  "author": "CristianHG2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianHG2/drizzle-pg-repository.git"
+  },
+  "homepage": "https://github.com/CristianHG2/drizzle-pg-repository#readme",
+  "bugs": {
+    "url": "https://github.com/CristianHG2/drizzle-pg-repository/issues"
+  },
   "type": "module",
   "sideEffects": false,
   "files": [
